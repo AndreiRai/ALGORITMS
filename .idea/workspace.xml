@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55978546-45f0-4658-b445-928b45da408b" name="Changes" comment="Algoritms. IsSequens.">
+    <list default="true" id="55978546-45f0-4658-b445-928b45da408b" name="Changes" comment="Algoritms. Greedy Sort.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsSequens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsSequens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SinglidlinList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglidlinList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,11 +123,11 @@
     <list>
       <item itemvalue="Application.ALGORITMS" />
       <item itemvalue="Application.Aray4" />
-      <item itemvalue="Application.IsSequens" />
-      <item itemvalue="Application.Steck" />
       <item itemvalue="Application.Array2" />
       <item itemvalue="Application.Array3" />
+      <item itemvalue="Application.IsSequens" />
       <item itemvalue="Application.Q_by_interface" />
+      <item itemvalue="Application.Steck" />
     </list>
     <recent_temporary>
       <list>
@@ -181,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671026428822</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algoritms. Greedy Sort.">
+      <created>1671027228138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671027228138</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Algoritms. Greedy Sort.">
+      <created>1671027488206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671027488206</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +215,8 @@
     <MESSAGE value="Algoritms . Babble Sort." />
     <MESSAGE value="Algoritms .MergeSort Arrays." />
     <MESSAGE value="Algoritms. IsSequens." />
-    <option name="LAST_COMMIT_MESSAGE" value="Algoritms. IsSequens." />
+    <MESSAGE value="Algoritms. Greedy Sort." />
+    <option name="LAST_COMMIT_MESSAGE" value="Algoritms. Greedy Sort." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

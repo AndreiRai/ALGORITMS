@@ -5,11 +5,11 @@ import java.util.Stack;
 public class IsSequens {
 
     public static void main(String[] args) {
-        System.out.println(isSequensCorrIncorr("{}()")); // t
-        System.out.println(isSequensCorrIncorr("{()[]}")); // t
-        System.out.println(isSequensCorrIncorr("[}")); // f
-        System.out.println(isSequensCorrIncorr("{{{])")); // f
-        System.out.println(isSequensCorrIncorr("{()()[[()]()]}")); // t
+        System.out.println(isSequensCorrIncorr("([{}])")); // t
+        //System.out.println(isSequensCorrIncorr("{()[]}")); // t
+        System.out.println(isSequensCorrIncorr("([)]")); // f
+        System.out.println(isSequensCorrIncorr("{()]")); // f
+        //System.out.println(isSequensCorrIncorr("{()()[[()]()]}")); // t
 
     }
 
