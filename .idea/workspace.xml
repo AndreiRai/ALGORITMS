@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55978546-45f0-4658-b445-928b45da408b" name="Changes" comment="Algoritms. Greedy Sort.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IsSequens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsSequens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglidlinList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglidlinList.java" afterDir="false" />
+    <list default="true" id="55978546-45f0-4658-b445-928b45da408b" name="Changes" comment="Algoritms. oday and tomorrow.">
+      <change beforePath="$PROJECT_DIR$/src/Aray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aray4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,11 +121,11 @@
     <list>
       <item itemvalue="Application.ALGORITMS" />
       <item itemvalue="Application.Aray4" />
+      <item itemvalue="Application.IsSequens" />
+      <item itemvalue="Application.Steck" />
       <item itemvalue="Application.Array2" />
       <item itemvalue="Application.Array3" />
-      <item itemvalue="Application.IsSequens" />
       <item itemvalue="Application.Q_by_interface" />
-      <item itemvalue="Application.Steck" />
     </list>
     <recent_temporary>
       <list>
@@ -197,7 +195,35 @@
       <option name="project" value="LOCAL" />
       <updated>1671027488206</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Algoritms. oday and tomorrow.">
+      <created>1672822765827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822765827</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Algoritms. oday and tomorrow.">
+      <created>1672822817455</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822817455</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Algoritms. oday and tomorrow.">
+      <created>1672822914309</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822914309</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Algoritms. oday and tomorrow.">
+      <created>1672822936356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822936356</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +242,8 @@
     <MESSAGE value="Algoritms .MergeSort Arrays." />
     <MESSAGE value="Algoritms. IsSequens." />
     <MESSAGE value="Algoritms. Greedy Sort." />
-    <option name="LAST_COMMIT_MESSAGE" value="Algoritms. Greedy Sort." />
+    <MESSAGE value="Algoritms. oday and tomorrow." />
+    <option name="LAST_COMMIT_MESSAGE" value="Algoritms. oday and tomorrow." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

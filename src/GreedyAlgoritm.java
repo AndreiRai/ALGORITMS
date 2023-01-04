@@ -9,4 +9,4 @@ public class GreedyAlgoritm {
 
 
 }
-// Is Greedy Sort
+// Is Greedy Sort/
