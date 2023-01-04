@@ -31,4 +31,4 @@ public class Q_by_interface {
         }
     }
 }
-//Algoritms
+//Algoritms 2
