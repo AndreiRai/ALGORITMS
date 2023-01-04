@@ -42,8 +42,9 @@ public class QuickSort {
         if (high > i)
             quickSort(array, i, high);
     }
+
     public static void main(String[] args) {
-        int[] x = { 8, 0, 4, 7, 3, 7, 10, 12, -3 };
+        int[] x = {8, 0, 4, 7, 3, 7, 10, 12, -3};
         System.out.println("Было");
         System.out.println(Arrays.toString(x));
 
@@ -55,3 +56,4 @@ public class QuickSort {
         System.out.println(Arrays.toString(x));
     }
 }
+//A
