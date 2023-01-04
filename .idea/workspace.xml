@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55978546-45f0-4658-b445-928b45da408b" name="Changes" comment="Algoritms. oday and tomorrow.">
-      <change beforePath="$PROJECT_DIR$/src/Aray4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aray4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Steck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Steck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,70 @@
       <option name="project" value="LOCAL" />
       <updated>1672822936356</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Algoritms. oday and tomorrow.">
+      <created>1672822973396</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822973396</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Algoritms. oday and tomorrow.">
+      <created>1672823030845</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823030845</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Algoritms. oday and tomorrow.">
+      <created>1672823081957</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823081957</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Algoritms. oday and tomorrow.">
+      <created>1672823112244</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823112244</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Algoritms. oday and tomorrow.">
+      <created>1672823154334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823154334</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Algoritms. oday and tomorrow.">
+      <created>1672823202453</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823202453</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Algoritms. oday and tomorrow.">
+      <created>1672823221722</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823221722</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Algoritms. oday and tomorrow.">
+      <created>1672823248171</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823248171</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Algoritms. oday and tomorrow.">
+      <created>1672823269407</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672823269407</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
