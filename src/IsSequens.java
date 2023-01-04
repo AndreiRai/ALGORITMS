@@ -27,5 +27,5 @@ public class IsSequens {
         return abc.empty();
     }
 }
-
+//Algoritms
 
