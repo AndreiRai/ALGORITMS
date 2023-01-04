@@ -39,3 +39,4 @@ public class SinglidlinList {
         return
     }
 }
+//Algoritms
