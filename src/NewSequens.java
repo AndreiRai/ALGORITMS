@@ -14,4 +14,4 @@ public class NewSequens {
 
     }
 }
-//Algoritms/
+//Algoritms/2
