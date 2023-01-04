@@ -34,9 +34,6 @@ public class SinglidlinList {
     private static void listQ(String s) {
     }
 
-    public static <listQ> boolean simmAssimList (LinkedList, listQ){
- for ( )
-        return
-    }
+
 }
-//Algoritms/2
+//Algoritms/2/
