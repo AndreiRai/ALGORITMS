@@ -14,4 +14,4 @@ public class Babblesort2 {
             i++;
         }
     }
-}// вариант  преподавателя  сорт babble в while
+}// вариант  преподавателя  сорт babble в while/
